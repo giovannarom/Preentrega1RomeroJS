@@ -1,0 +1,57 @@
+/* Body */
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(../img/fondo_body.png);
+}
+  
+body h1 {
+    font-size: 25pt;
+    color: black;
+    width: 90%;
+}
+  
+body h2 {
+    font-size: 25pt;
+    color: rgb(14, 64, 31);
+    width: 90%;
+}
+
+/* Highlights*/
+.initialcontent {
+    background-color: transparent;
+    text-align: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(imagenes/background.png);
+    justify-content: center;
+}
+
+.initialcontent .initialcontent-principal h2 {
+    font-size: 25pt;
+    color: rgb(12, 78, 36);
+    margin-bottom: 5%;
+    width: 80%;
+}
+
+/* Cards*/
+.cardimgs {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 305px;
+    height: 360px;
+    margin: 15px 0;
+    padding: 3px;
+    float: left;
+    justify-content: center;
+}
+
+.cardimgs img {
+    width: 300px;
+    height: 350px;
+    display: block;
+    margin: 0 auto;
+}
