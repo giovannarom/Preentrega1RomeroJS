@@ -1,2 +1,2 @@
 # Preentrega1RomeroJS
-JS simulator on climate change
+JS simulator on carbon footprint
